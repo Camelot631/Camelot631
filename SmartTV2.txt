@@ -61,11 +61,11 @@ smartclip.com
 
 # Philips
 
-#deviceportal.nettvservices.com
-#epg.corio.com
-#legacyportal.nettvservices.com
-#nettv.corio.com
-#www.ecdinterface.philips.com
+# deviceportal.nettvservices.com
+# epg.corio.com
+# legacyportal.nettvservices.com
+# nettv.corio.com
+# www.ecdinterface.philips.com
 
 
 # Samsung
